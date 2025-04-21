@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Hello
-Mr DeoVops 
+Mr DevOps
 Er Syed Murtuza Syed Mustafa Ahmed!</h2>
 </body>
 </html>
