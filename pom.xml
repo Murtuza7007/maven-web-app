@@ -11,7 +11,7 @@
     <name>01-maven-web-app Maven Webapp</name>
     <url>http://maven.apache.org</url>
    <properties>
-            <sonar.host.url>http://16.16.121.58:9000/</sonar.host.url>
+            <sonar.host.url>http://16.16.121.58:9000</sonar.host.url>
             <sonar.login>squ_5ed20a0310648261d78456bfa0e026c2d078ba5e</sonar.login>
     </properties>
     <dependencies>
