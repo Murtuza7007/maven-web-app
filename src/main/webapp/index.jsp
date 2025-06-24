@@ -52,7 +52,7 @@
     <h2>DevOps Lifecycle Stages</h2>
     <ul>
       <li>Murtuza</li>
-      <li>Swapnil</li>
+      <li>DevOps</li>
       <li>Build</li>
       <li>Test</li>
       <li>Release</li>
